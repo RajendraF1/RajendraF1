@@ -15,7 +15,7 @@
   Upload it to your repo's assets/ folder.
 -->
 
-<img src="./assets/banner.png" width="100%" alt="Rajendra Firjatullah — Software Engineer · AI Engineer · Night Coder" />
+<img src="./assets/banner.jpg" width="100%" alt="Rajendra Firjatullah — Software Engineer · AI Engineer · Night Coder" />
 
 <br/>
 
