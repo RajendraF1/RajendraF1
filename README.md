@@ -5,15 +5,6 @@
 <div align="center">
 
 <!-- ─────────────────────────── BANNER ─────────────────────────── -->
-<!-- 
-  📌 BANNER INSTRUCTIONS:
-  1. Add your custom banner image to this repo (e.g., "assets/banner.png")
-  2. Replace the placeholder below with: 
-     <img src="./assets/banner.png" width="100%" alt="Banner" />
-  
-  The generated banner has been saved in the conversation artifacts.
-  Upload it to your repo's assets/ folder.
--->
 
 <img src="./assets/banner.jpg" width="100%" alt="Rajendra Firjatullah — Software Engineer · AI Engineer · Night Coder" />
 
@@ -153,14 +144,6 @@ $ cat philosophy.txt
   <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="28" />
   &nbsp; Now Playing on Spotify
 </h3>
-
-<!-- 
-  📌 SPOTIFY SETUP INSTRUCTIONS:
-  1. Go to https://spotify-github-profile.kittinan.vercel.app
-  2. Login with your Spotify account
-  3. Copy your personalized URL
-  4. Replace the placeholder URL below with yours
--->
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=s69znubcn2vu2zz5tdc24t8v4&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=s69znubcn2vu2zz5tdc24t8v4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=38bdf8&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
@@ -440,14 +423,6 @@ $ cat philosophy.txt
 <!-- Contribution Snake -->
 <h2>🐍 Contribution Snake</h2>
 
-<!-- 
-  📌 SNAKE ANIMATION SETUP:
-  1. Go to https://github.com/Platane/snk
-  2. Set up the GitHub Action in your profile repo
-  3. The action generates the snake SVG automatically
-  4. Replace the URL below with your generated SVG path
--->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajendraF1/RajendraF1/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajendraF1/RajendraF1/output/github-snake.svg" />
@@ -630,10 +605,6 @@ $ cat philosophy.txt
 
 <br/><br/>
 
-<!-- 
-  📌 CONTACT SETUP:
-  Replace the placeholder URLs below with your actual links.
--->
 
 <a href="https://github.com/RajendraF1">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
