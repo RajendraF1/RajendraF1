@@ -415,7 +415,7 @@ $ cat philosophy.txt
 <h2>🏆 Trophies</h2>
 
 <a href="https://github.com/RajendraF1">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajendraF1&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" width="95%" alt="Trophies" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=RajendraF1&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" width="95%" alt="Trophies" />
 </a>
 
 <br/><br/>
