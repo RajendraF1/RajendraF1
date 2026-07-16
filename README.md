@@ -13,7 +13,7 @@
 <!-- ─────────────────────────── TYPING SVG ─────────────────────── -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%E2%98%95+Coffee+%E2%86%92+Code+%E2%86%92+Deploy+%E2%86%92+Repeat;Building+AI+that+matters+%F0%9F%A4%96;Turning+caffeine+into+software+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=100&lines=%E2%98%95+Coffee+%E2%86%92+Code+%E2%86%92+Deploy+%E2%86%92+Repeat;Building+AI+that+matters+%F0%9F%A4%96;Turning+caffeine+into+software+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -609,7 +609,7 @@ $ cat philosophy.txt
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/rajendrafirjatullah">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="48" />
+  <img src="https://cdn.simpleicons.org/linkedin/0a66c2" alt="LinkedIn" width="48" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/RajendraF1">
