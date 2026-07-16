@@ -6,14 +6,14 @@
 
 <!-- ─────────────────────────── BANNER ─────────────────────────── -->
 
-<img src="./assets/banner.jpg" width="100%" alt="Rajendra Firjatullah — Software Engineer · AI Engineer · Night Coder" />
+<img src="./assets/banner.jpg" width="800" alt="Rajendra Firjatullah — Software Engineer · AI Engineer · Night Coder" />
 
 <br/>
 
 <!-- ─────────────────────────── TYPING SVG ─────────────────────── -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%98%95+Coffee+%E2%86%92+Code+%E2%86%92+Deploy+%E2%86%92+Repeat;Building+AI+that+matters+%F0%9F%A4%96;Turning+caffeine+into+software+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%E2%98%95+Coffee+%E2%86%92+Code+%E2%86%92+Deploy+%E2%86%92+Repeat;Building+AI+that+matters+%F0%9F%A4%96;Turning+caffeine+into+software+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -57,25 +57,25 @@
 <td align="center" width="800">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ██████╗ ███████╗██╗   ██╗    ██████╗  █████╗ ███████╗██╗  ██╗  ║
-║   ██╔══██╗██╔════╝██║   ██║    ██╔══██╗██╔══██╗██╔════╝██║  ██║  ║
-║   ██║  ██║█████╗  ██║   ██║    ██║  ██║███████║███████╗███████║  ║
-║   ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██║  ██║██╔══██║╚════██║██╔══██║  ║
-║   ██████╔╝███████╗ ╚████╔╝     ██████╔╝██║  ██║███████║██║  ██║  ║
-║   ╚═════╝ ╚══════╝  ╚═══╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  ║
-║                                                                  ║
-║   ☕ Coffee Level     ████████████████████░░░░  85%  [OPTIMAL]   ║
-║   ⚡ Coding Energy    █████████████████████░░░  88%  [BLAZING]   ║
-║   🎧 Music            ██████████████████████░░  92%  [LOFI]      ║
-║   😴 Sleep             ████░░░░░░░░░░░░░░░░░░░  18%  [WHO NEEDS] ║
-║   🧠 Brain Capacity   ████████████████████████  99%  [LOCKED IN] ║
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║   ██████╗ ███████╗██╗   ██╗    ██████╗  █████╗ ███████╗██╗  ██╗   ║
+║   ██╔══██╗██╔════╝██║   ██║    ██╔══██╗██╔══██╗██╔════╝██║  ██║   ║
+║   ██║  ██║█████╗  ██║   ██║    ██║  ██║███████║███████╗███████║   ║
+║   ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██║  ██║██╔══██║╚════██║██╔══██║   ║
+║   ██████╔╝███████╗ ╚████╔╝     ██████╔╝██║  ██║███████║██║  ██║   ║
+║   ╚═════╝ ╚══════╝  ╚═══╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ║
+║                                                                   ║
+║   ☕ Coffee Level     ████████████████████░░░░  85%  [OPTIMAL]    ║
+║   ⚡ Coding Energy    █████████████████████░░░  88%  [BLAZING]    ║
+║   🎧 Music            ██████████████████████░░  92%  [JAZZ]       ║
+║   😴 Sleep             ████░░░░░░░░░░░░░░░░░░░  18%  [WHO NEEDS]  ║
+║   🧠 Brain Capacity   ████████████████████████  99%  [LOCKED IN]  ║
 ║   🔥 Motivation       █████████████████████░░░  90%  [UNSTOPPABLE]║
-║                                                                  ║
-║   STATUS: 🟢 ONLINE  ──  UPTIME: ∞  ──  MODE: NIGHT OWL 🌙     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+║                                                                   ║
+║   STATUS: 🟢 ONLINE       UPTIME: ∞        MODE: NIGHT OWL 🌙    ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 </td>
@@ -151,7 +151,7 @@ $ cat philosophy.txt
 
 <br/><br/>
 
-<samp>🎧 Fueled by lo-fi beats, ambient synths, and the occasional metal breakdown.</samp>
+<samp>🎧 Fueled by good music, strong coffee, and late-night coding sessions.</samp>
 
 </div>
 
@@ -197,7 +197,7 @@ $ cat philosophy.txt
 
 <br/>
 
-<a href="https://github.com/RajendraF1/ARISQA">
+<a href="https://github.com/RajendraF1/air-quality-forecasting">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-0891b2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -226,7 +226,7 @@ $ cat philosophy.txt
 
 <br/>
 
-<a href="https://github.com/RajendraF1">
+<a href="https://github.com/RajendraF1/saw-based-cafe-recommender">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-0891b2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -237,31 +237,29 @@ $ cat philosophy.txt
 
 <br/>
 
-<h3>🤖 Robotics Projects</h3>
-<p><samp>Where Software Meets the Physical World</samp></p>
+<h3>🔄 Go Job Queue Dashboard</h3>
+<p><samp>Real-time Job Queue Monitoring</samp></p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Pixhawk-0d1117?style=for-the-badge&logo=drone&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/IoT-0d1117?style=for-the-badge&logo=internetofthings&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Computer_Vision-0d1117?style=for-the-badge&logo=opencv&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Embedded-0d1117?style=for-the-badge&logo=arduino&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Autonomous-0d1117?style=for-the-badge&logo=probot&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Backend-0d1117?style=for-the-badge&logo=linux&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Dashboard-0d1117?style=for-the-badge&logo=grafana&logoColor=38bdf8" />
 
 <br/><br/>
 
 <p>
   <samp>
-    Autonomous robots, embedded systems, drone flight controllers,<br/>
-    and computer vision — bridging the gap between code and hardware.
+    A high-performance system for monitoring, managing, and<br/>
+    visualizing background jobs and worker queues in real-time.
   </samp>
 </p>
 
 <br/>
 
-<a href="https://github.com/RajendraF1">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0891b2?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/RajendraF1/go-job-queue-dashboard">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0891b2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -351,7 +349,7 @@ $ cat philosophy.txt
 <tr>
 <td width="50%" align="center">
   <a href="https://github.com/RajendraF1">
-    <img src="https://github-readme-stats.vercel.app/api?username=RajendraF1&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=9ca3af&icon_color=0891b2&bg_color=0d1117&ring_color=38bdf8" width="100%" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=RajendraF1&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=9ca3af&icon_color=0891b2&bg_color=0d1117&ring_color=38bdf8" width="100%" alt="GitHub Stats" />
   </a>
 </td>
 <td width="50%" align="center">
@@ -364,7 +362,7 @@ $ cat philosophy.txt
 
 <!-- Top Languages -->
 <a href="https://github.com/RajendraF1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajendraF1&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=9ca3af&bg_color=0d1117&langs_count=8" width="400" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RajendraF1&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=9ca3af&bg_color=0d1117&langs_count=8" width="400" alt="Top Languages" />
 </a>
 
 <br/><br/>
@@ -457,12 +455,12 @@ $ cat philosophy.txt
 ╭─────────────────────────────────╮
 │  ♫  Favorite Genres             │
 │  ─────────────────────────────  │
-│  ► Lo-Fi Hip Hop                │
-│  ► Synthwave / Retrowave        │
-│  ► Ambient Electronic           │
-│  ► Post-Rock                    │
-│  ► Chill Beats                  │
-│  ► Instrumental Metal           │
+│  ► Indie Indonesia              │
+│  ► Jazz                         │
+│  ► Modern Jazz                  │
+│  ► Math Rock                    │
+│  ► Alternative                  │
+│  ► Electronic                   │
 ╰─────────────────────────────────╯
 ```
 
@@ -475,12 +473,12 @@ $ cat philosophy.txt
 ╭─────────────────────────────────╮
 │  ★  Artists I Code To           │
 │  ─────────────────────────────  │
-│  ► Nujabes                      │
-│  ► Tycho                        │
-│  ► Bonobo                       │
-│  ► Khruangbin                   │
+│  ► Alkateri                     │
+│  ► Laufey                       │
+│  ► Jacob Collier                │
+│  ► Themilo                      │
 │  ► Tame Impala                  │
-│  ► HOME                         │
+│  ► Oasis                        │
 ╰─────────────────────────────────╯
 ```
 
@@ -490,7 +488,7 @@ $ cat philosophy.txt
 
 <br/>
 
-<samp>💡 Pro tip: The best debugging playlist is lo-fi at 2 AM with black coffee.</samp>
+<samp>💡 💡 Pro tip: Coffee first. Ideas second. Code third.</samp>
 
 </div>
 
@@ -515,7 +513,7 @@ $ cat philosophy.txt
 ```
 ╭──────────── CURRENT FUEL ────────────╮
 │                                      │
-│   Morning   :  Double Espresso ☕☕   │
+│   Morning   :  Double Espresso ☕☕ │
 │   Afternoon :  Cold Brew 🧊          │
 │   Night     :  V60 Pour Over 💧      │
 │   Emergency :  Red Eye ☠️            │
@@ -529,16 +527,16 @@ $ cat philosophy.txt
 <td width="50%" align="center">
 
 ```
-╭──────────── DEV MOOD ───────────────╮
-│                                      │
+╭──────────── DEV MOOD ─────────────────╮
+│                                       │
 │   🌙 Night Coding    : ████████ ON   │
 │   ☕ Coffee Status   : ████████ MAX  │
-│   🎧 Music           : ████████ LOFI │
-│   🐛 Bugs Found      : Yes.         │
-│   🐛 Bugs Fixed      : Also yes.    │
-│   😅 Stack Overflow   : Occasionally │
-│                                      │
-╰──────────────────────────────────────╯
+│   🎧 Music           : ████████ INDIE│
+│   🐛 Bugs Found      : Yes.          │
+│   🐛 Bugs Fixed      : Also yes.     │
+│   😅 AI AGENT        : Occasionally  │
+│                                       │
+╰───────────────────────────────────────╯
 ```
 
 </td>
@@ -607,19 +605,23 @@ $ cat philosophy.txt
 
 
 <a href="https://github.com/RajendraF1">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="48" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/rajendrafirjatullah">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="48" />
 </a>
-&nbsp;
-<a href="https://YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/RajendraF1">
+  <img src="https://cdn.simpleicons.org/googlechrome/38bdf8" alt="Portfolio" width="48" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:m.rajendra.firjat17@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="48" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/s69znubcn2vu2zz5tdc24t8v4?si=2b962eb4a420475b">
+  <img src="https://cdn.simpleicons.org/spotify/1DB954" alt="Spotify" width="48" />
 </a>
 
 </div>
@@ -643,13 +645,13 @@ $ cat philosophy.txt
   <br/>
   — Abraham Lincoln
   <br/><br/>
-  <i>If you like what you see, consider giving a ⭐ — it fuels the coffee fund ☕</i>
+  <i>If you like what you see, consider giving a ⭐, it fuels the coffee fund ☕</i>
 </samp>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=6B7280&center=true&vCenter=true&width=435&lines=Made+with+%E2%98%95+%2B+%F0%9F%8C%99+%2B+%F0%9F%92%BB+by+Rajendra+Firjatullah" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=6B7280&center=true&vCenter=true&width=435&lines=%C2%A9+2026+Rajendra+Firjatullah.+All+Rights+Reserved." alt="Footer Typing" />
 </a>
 
 </div>
