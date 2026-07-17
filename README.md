@@ -146,7 +146,7 @@ $ cat philosophy.txt
 </h3>
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=s69znubcn2vu2zz5tdc24t8v4&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=s69znubcn2vu2zz5tdc24t8v4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=38bdf8&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=s69znubcn2vu2zz5tdc24t8v4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=light" alt="Spotify Now Playing" width="400" />
 </a>
 
 <br/><br/>
